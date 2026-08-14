@@ -13,4 +13,4 @@ nums[i] = nums[j];
 }
  return i + 1;
 }
-};
+};git rm -r --cached .vscode
